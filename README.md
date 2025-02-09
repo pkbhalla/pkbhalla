@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pratham Bhalla</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&width=520&lines=Full+Stack+Developer+%7C+Python+%7C+FastAPI+%7C+Vue.js+%F0%9F%9A%80;Exploring+Data+Science%2C+AI%2C+and+UI%2FUX+%F0%9F%8E%A8%F0%9F%93%8A;Building+Scalable+%26+Impactful+Tech+Solutions+%F0%9F%92%A1;Let's+Connect+%26+Build+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%7C+Python+%7C+FastAPI+%7C+Vue.js+%F0%9F%9A%80;Exploring+Data+Science%2C+AI%2C+and+UI%2FUX+%F0%9F%8E%A8%F0%9F%93%8A;Building+Scalable+%26+Impactful+Tech+Solutions+%F0%9F%92%A1;Let's+Connect+%26+Build+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkbhalla&label=Profile%20views&color=0e75b6&style=flat" alt="pkbhalla" /> </p>
 🎓 Graduated from IIT Madras with a BS in Data Science & Applications<br>💡 Passionate about Full Stack Development, Data Science, and AI<br>🚀 Currently exploring Deep Learning & UI/UX Design<br>🔥 Building solutions that make a real-world impact
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pkbhalla15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pkbhalla15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham-bhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-bhalla" height="30" width="40" /></a>
-<a href="https://kaggle.com/prathambhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathambhalla" height="30" width="40" /></a>
-<a href="https://instagram.com/pk_bhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pk_bhalla" height="30" width="40" /></a>
 <a href="https://medium.com/@prathambhalla7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prathambhalla7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pkbhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pkbhalla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prathambhalla188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathambhalla188" height="30" width="40" /></a>
+<a href="https://kaggle.com/prathambhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathambhalla" height="30" width="40" /></a>
+<a href="https://instagram.com/pk_bhalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pk_bhalla" height="30" width="40" /></a>
+<a href="https://twitter.com/pkbhalla15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pkbhalla15" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prathambhalla188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathambhalla188" height="30" width="40" /></a>
 </p>
 
 # My 💻Tech Stack:
